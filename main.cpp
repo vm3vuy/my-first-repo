@@ -230,6 +230,7 @@ int main(int argc, char *argv[]) {
             PrintNameFunc();
 	    cout << "增加MSG by coworkers\n" ;
 	    cout << "增加MSG_2 by coworkers\n" ;
+	    cout << "增加MSG_3 by coworkers\n" ;
 
 			break;
 
