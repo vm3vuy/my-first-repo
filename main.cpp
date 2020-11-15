@@ -228,6 +228,7 @@ int main(int argc, char *argv[]) {
 		case 1:
 
             PrintNameFunc();
+	    cout << "增加MSG by coworkers\n" ;
 
 			break;
 
